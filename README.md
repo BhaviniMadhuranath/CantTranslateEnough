@@ -11,3 +11,5 @@ NLP (UE20CS342) project - A multilingual language identifier and translator
   - hypenated words need to be considered as two separate words
   - apostrophe needs to be associated with the word preceding it
   - **solution** consider hypen and apostrophe as separate grams
+- functions to convert to n grams for each letter and each word
+-
