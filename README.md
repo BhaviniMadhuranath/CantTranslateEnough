@@ -12,4 +12,7 @@ NLP (UE20CS342) project - A multilingual language identifier and translator
   - apostrophe needs to be associated with the word preceding it
   - **solution** consider hypen and apostrophe as separate grams
 - functions to convert to n grams for each letter and each word
--
+- preprocess_x is for english sentences
+  x_tk is for tokenised english sentences
+  eng, french, spanish, german, italian -> order
+  x, y, a, b, z
